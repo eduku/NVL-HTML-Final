@@ -1,0 +1,3 @@
+He hecho la página con distintas referencias con <a> para ir cambiando de sección.
+He tenido que usar JQuery para el cambio entre distintas pestañas, ya que iba a hacer con anclas simplemente pero no me gustaba el resultado.
+He incluido un pequeño formulario, no funcional, en la sección de contacto, una imagen, listas no ordenadas... he intentado utilizar lo máximo posible visto a lo largo del módulo.
